@@ -1,0 +1,19 @@
+* {
+    box-sizing: content-box;
+    background-color: rgb(102, 77, 77);
+    
+}
+h2 {
+    font-size: 400%;
+    text-align: center;
+    font-style: italic;
+    margin-top: 150px;
+}
+form {
+    font-size: 300%;
+    text-align: center;
+}
+#name #email #message {
+    font-size: xx-large;
+    
+}
