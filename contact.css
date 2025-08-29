@@ -12,6 +12,7 @@ h2 {
 form {
     font-size: 300%;
     text-align: center;
+    color: antiquewhite;
 }
 #name #email #message {
     font-size: xx-large;
