@@ -4,12 +4,12 @@
     color: white;
     margin: 10px;
     box-sizing: content-box;
+    
 }
 h1 {
     font-size: 500%;
-    text-align: center;
     margin-top: 300px;
-    margin-left: 250px;
+    margin-left: 300px;
     margin-bottom: 0%;
 }
 
