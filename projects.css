@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(131, 106, 106);
+}
+h1 {
+    text-align: center;
+    font-size: 300%;
+}
+.project1 {
+    display: flex;
+    gap: 50px;
+}
+.content {
+    font-size: 150%;
+
+}
+.project2 {
+    display: flex;
+    gap: 50px;
+}
